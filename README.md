@@ -1,6 +1,6 @@
 # Customer-Goods-Ad_hoc-Insights
 
-# About Company 
+## About Company 
 Atliq Hardware is a leading computer hardware manufacturer based in India, recognized for its extensive global reach, 
 operating in 27 countries. 
 Serving a large clientele of 74 customers, Atliq Hardware has firmly established its presence in Asia Pacific (APAC), 
@@ -10,7 +10,7 @@ Specializing in three key product divisions –
 Peripherals and Accessories (P & A), Network and Storage (N & S), and Personal Computer (PC) – 
 Atliq Hardware offers a diverse product portfolio, making it a versatile and dependable choice for consumers worldwide.
 
-# Business Scenario
+## Business Scenario
 
 Atliq Hardwares' management wants to understand the sales performance across different regions to 
 optimize inventory and marketing strategies. They have asked the data analytics team to provide insights 
