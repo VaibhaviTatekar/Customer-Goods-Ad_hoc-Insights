@@ -1,4 +1,4 @@
-# Customer-Goods-Ad_hoc-Insights
+# Consumer-Goods-Ad_hoc-Insights
 
 ## About Company 
 Atliq Hardware is a leading computer hardware manufacturer based in India, recognized for its extensive global reach, 
